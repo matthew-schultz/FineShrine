@@ -1,6 +1,9 @@
-# Created by .ignore support plugin (hsz.mobi)
+# Adapted from .ignore support plugin (hsz.mobi)
 
 .idea/
 template.iml
 _site/
 .sass-cache/
+
+# prevent iml file from interfering with github page
+FineShrine.iml
